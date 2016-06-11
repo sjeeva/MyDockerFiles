@@ -1,0 +1,5 @@
+version:'2'
+
+service:
+  jenkins:
+    image: jenkins:2.3-alpine
